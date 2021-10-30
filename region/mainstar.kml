@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Placemark id="/4">
+    <name>mainstar</name>
+    <Style>
+      <LineStyle>
+        <color>ff5454ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff5454ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Polygon>
+      <altitudeMode>clampToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            80.85232653750842,39.64436718375362,1084.160040670075 83.67769897999905,39.62807461670927,1037.298247105442 85.23045058073382,41.89656565429023,1420.021496765316 
+            85.93138993841464,39.54979589912012,986.170440162532 88.72400952145243,39.42043694265003,835.8097494225949 86.21254382846732,38.08985024248333,1528.764844834805 
+            86.76085769343636,36.14828432067548,5098.933100019582 84.61349840764352,37.39222374435117,1911.584175936878 81.84799274503665,36.11021358643132,4067.630838779733 
+            83.21618017840483,38.2321657815074,1211.391352160834 80.85232653750842,39.64436718375362,1084.160040670075
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</kml>

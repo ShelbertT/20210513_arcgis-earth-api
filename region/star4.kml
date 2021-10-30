@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Placemark id="/8">
+    <name>star4</name>
+    <Style>
+      <LineStyle>
+        <color>ff5454ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff5454ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Polygon>
+      <altitudeMode>clampToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            88.93656559348521,34.30424044593504,5017.905491219833 89.99297257126635,33.56599576252273,5032.82244071085 91.24565647762142,34.10816911149713,4989.169815745205 
+            90.65825410437259,33.06978278935359,5086.733187774196 91.69188306710807,32.38134759399402,4902.373652728274 90.4266630187952,32.50242703923749,4914.795603075065 
+            89.87587005343278,31.55046015563741,4774.364984113723 89.65308485061412,32.51760594380806,4874.877721134573 88.09340657008947,32.62991067207368,5106.176217529923 
+            89.36693933574075,33.15834535489552,5002.054387793876 88.93656559348521,34.30424044593504,5017.905491219833
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</kml>
